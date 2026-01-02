@@ -37,5 +37,5 @@ It is designed as a **beginner-friendly full-stack project** suitable for academ
 
 ---
 
-## 📂 Project Structure
+
 
